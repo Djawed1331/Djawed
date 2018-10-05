@@ -1,0 +1,60 @@
+body { 
+    background: url('https://images.alphacoders.com/293/thumb-1920-29321.jpg') no-repeat;
+    background-size: cover;
+
+        
+}
+    p{
+    color: white; 
+    }
+
+    .container {
+        position: absolute;
+         left: 50%;
+         top: 40%;
+        transform: translate(-50%, -50%);
+        color: white;
+    }
+form input{
+    display: block;
+    margin-bottom: 20px;
+    
+}
+.valider{
+    position: absolute;
+    left: 50%;
+     transform: translate(-50%);
+  
+    
+}
+.welcome{
+    margin-top: -200px;
+    position: absolute;
+    left: 50%;
+    top: 40%;
+   transform: translate(-50%, -50%);
+    color: white;
+    font-size: 30pt; 
+}
+.presentation
+{
+    
+    position: absolute;
+    font-size: 30pt;
+    left: 25%;
+    top: 40%;
+    transform: translate( 35%, 50%);
+    color: white;
+}
+
+.alert {
+    background: url('https://www.freeiconspng.com/uploads/-alert-attention-danger-exclamation-safety-warning-icon--icon--33.png');
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+    opacity: 0;
+}
+.anim{
+    color: white;
+}
+
